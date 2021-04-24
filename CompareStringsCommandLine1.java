@@ -1,4 +1,4 @@
-public class CompareStringsCommandLine {
+public class CompareStringsCommandLine1 {
 
     public static void main(String[] args) {
         String s1 = args[0]; // First Argument at Index 0
